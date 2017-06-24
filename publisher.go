@@ -1,7 +1,7 @@
 package micro
 
 import (
-	"github.com/micro/go-micro/client"
+	"github.com/elthariel/go-micro/client"
 	"golang.org/x/net/context"
 )
 

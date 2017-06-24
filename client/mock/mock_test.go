@@ -3,7 +3,7 @@ package mock
 import (
 	"testing"
 
-	"github.com/micro/go-micro/errors"
+	"github.com/elthariel/go-micro/errors"
 
 	"golang.org/x/net/context"
 )

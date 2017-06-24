@@ -2,7 +2,7 @@ package consul
 
 import (
 	consul "github.com/hashicorp/consul/api"
-	"github.com/micro/go-micro/registry"
+	"github.com/elthariel/go-micro/registry"
 	"golang.org/x/net/context"
 )
 

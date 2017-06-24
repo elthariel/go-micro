@@ -17,9 +17,9 @@ import (
 	"time"
 
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro/broker/codec/json"
-	"github.com/micro/go-micro/errors"
-	"github.com/micro/go-micro/registry"
+	"github.com/elthariel/go-micro/broker/codec/json"
+	"github.com/elthariel/go-micro/errors"
+	"github.com/elthariel/go-micro/registry"
 	maddr "github.com/micro/misc/lib/addr"
 	mnet "github.com/micro/misc/lib/net"
 	mls "github.com/micro/misc/lib/tls"

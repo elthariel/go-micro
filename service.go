@@ -6,10 +6,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/metadata"
-	"github.com/micro/go-micro/server"
+	"github.com/elthariel/go-micro/client"
+	"github.com/elthariel/go-micro/cmd"
+	"github.com/elthariel/go-micro/metadata"
+	"github.com/elthariel/go-micro/server"
 )
 
 type service struct {

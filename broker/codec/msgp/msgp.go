@@ -3,8 +3,8 @@ package msgp
 import (
 	"errors"
 
-	"github.com/micro/go-micro/broker"
-	"github.com/micro/go-micro/broker/codec"
+	"github.com/elthariel/go-micro/broker"
+	"github.com/elthariel/go-micro/broker/codec"
 )
 
 type msgpCodec struct{}

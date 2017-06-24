@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/micro/go-micro/server"
+	"github.com/elthariel/go-micro/server"
 )
 
 func NewServer(opts ...server.Option) server.Server {

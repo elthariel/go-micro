@@ -3,10 +3,10 @@ package server
 import (
 	"bytes"
 
-	"github.com/micro/go-micro/codec"
-	"github.com/micro/go-micro/codec/jsonrpc"
-	"github.com/micro/go-micro/codec/protorpc"
-	"github.com/micro/go-micro/transport"
+	"github.com/elthariel/go-micro/codec"
+	"github.com/elthariel/go-micro/codec/jsonrpc"
+	"github.com/elthariel/go-micro/codec/protorpc"
+	"github.com/elthariel/go-micro/transport"
 )
 
 type rpcPlusCodec struct {
